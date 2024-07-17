@@ -1,8 +1,8 @@
-Proyecto de Gestión de Libros
+Proyecto de gestión de libros
 
 Este proyecto tiene como objetivo permitir la gestión de libros, almacenándolos en una base de datos cuando se buscan a través de un API utilizando su título.
 
-Funcionalidades Principales
+funcionalidad
 
 Buscar Libros por Título: 
 Utilizando un API externa, el sistema permite buscar libros por su título imprimir en consola y guardar la información relevante en una base de datos local.
